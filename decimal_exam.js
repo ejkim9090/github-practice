@@ -4,3 +4,6 @@
 const result = (0.1 * 10 + 0.2 * 10) / 10; 
 console.log(result); // 0.3 // 이상하네 3인데~~~  
 dfdf
+
+
+ㅎㅎ
